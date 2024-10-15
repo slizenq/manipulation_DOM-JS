@@ -1,0 +1,18 @@
+.box {
+    color: blue;
+}
+.hovered {
+    color: red;
+}
+#windowSize {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+}
+.acctive{
+    color: red;
+}
+.unacctive{
+    color: black;
+}
